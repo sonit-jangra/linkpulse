@@ -59,4 +59,6 @@ A high-performance URL shortener and real-time click analytics platform. LinkPul
 
 - **Fast URL Redirection**: Uses Redis caching to resolve target URLs with minimal latency.
 - **Real-Time Dashboard**: Clean UI to create custom short links, view click counters, copy links, and inspect analytics modals.
+
+
 MADE BY SONIT JANGRA
